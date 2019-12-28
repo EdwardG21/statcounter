@@ -1,2 +1,2 @@
-# clickystats
-Clicky stats for SCHLIX CMS
+# statcounter
+Statcounter for SCHLIX CMS
